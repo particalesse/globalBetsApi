@@ -1,0 +1,1954 @@
+/mobile-gate/api/v1/events/sport-categories?tree-id=11
+
+{
+	"treeId": 11,
+	"parentTreeId": 1,
+	"externalId": 11,
+	"rawName": "Football",
+	"name": "Football",
+	"live": false,
+	"catInfo": {
+		"children": [
+			{
+				"treeId": 4410142,
+				"parentTreeId": 11,
+				"externalId": 4410142,
+				"rawName": "Internationals",
+				"name": "Internationals",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 2253851,
+							"parentTreeId": 4410142,
+							"externalId": 2253851,
+							"rawName": "UEFA Euro",
+							"name": "UEFA Euro",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						},
+						{
+							"treeId": 6453930,
+							"parentTreeId": 4410142,
+							"externalId": 6402497,
+							"rawName": "UEFA Nations League",
+							"name": "UEFA Nations League",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						},
+						{
+							"treeId": 7318604,
+							"parentTreeId": 4410142,
+							"externalId": 7212769,
+							"rawName": "AFF Championship",
+							"name": "AFF Championship",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						}
+					],
+					"rating": 21,
+					"link": false
+				}
+			},
+			{
+				"treeId": 4409575,
+				"parentTreeId": 11,
+				"externalId": 4409575,
+				"rawName": "Clubs. International",
+				"name": "Clubs. International",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 21255,
+							"parentTreeId": 4409575,
+							"externalId": 21255,
+							"rawName": "UEFA Champions League",
+							"name": "UEFA Champions League",
+							"live": false,
+							"catInfo": {
+								"rating": 9,
+								"link": false
+							}
+						},
+						{
+							"treeId": 21366,
+							"parentTreeId": 4409575,
+							"externalId": 21366,
+							"rawName": "UEFA Europa League",
+							"name": "UEFA Europa League",
+							"live": false,
+							"catInfo": {
+								"rating": 8,
+								"link": false
+							}
+						},
+						{
+							"treeId": 730004,
+							"parentTreeId": 4409575,
+							"externalId": 730004,
+							"rawName": "CAF Champions League",
+							"name": "CAF Champions League",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						},
+						{
+							"treeId": 21445,
+							"parentTreeId": 4409575,
+							"externalId": 21445,
+							"rawName": "Copa Libertadores",
+							"name": "Copa Libertadores",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						},
+						{
+							"treeId": 49526,
+							"parentTreeId": 4409575,
+							"externalId": 49526,
+							"rawName": "Sudamericana Cup",
+							"name": "Sudamericana Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						},
+						{
+							"treeId": 4996819,
+							"parentTreeId": 4409575,
+							"externalId": 4963697,
+							"rawName": "Arab Club Championship",
+							"name": "Arab Club Championship",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						}
+					],
+					"rating": 20,
+					"link": false
+				}
+			},
+			{
+				"treeId": 539810,
+				"parentTreeId": 11,
+				"externalId": 539810,
+				"rawName": "Friendlies",
+				"name": "Friendlies",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 128799,
+							"parentTreeId": 539810,
+							"externalId": 128799,
+							"rawName": "Internationals U-19",
+							"name": "Internationals U-19",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 9,
+					"link": false
+				}
+			},
+			{
+				"treeId": 1050970,
+				"parentTreeId": 11,
+				"externalId": 1050970,
+				"rawName": "Friendly Tournaments",
+				"name": "Friendly Tournaments",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 2269594,
+							"parentTreeId": 1050970,
+							"externalId": 2269594,
+							"rawName": "Clubs U-19",
+							"name": "Clubs U-19",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						},
+						{
+							"treeId": 2057208,
+							"parentTreeId": 1050970,
+							"externalId": 2057208,
+							"rawName": "Clubs U-20",
+							"name": "Clubs U-20",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 8,
+					"link": false
+				}
+			},
+			{
+				"treeId": 10802,
+				"parentTreeId": 11,
+				"externalId": 10802,
+				"rawName": "Argentina",
+				"name": "Argentina",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 411159,
+							"parentTreeId": 10802,
+							"externalId": 411159,
+							"rawName": "Primera B Nacional",
+							"name": "Primera B Nacional",
+							"live": false,
+							"catInfo": {
+								"rating": 5,
+								"link": false
+							}
+						},
+						{
+							"treeId": 549777,
+							"parentTreeId": 10802,
+							"externalId": 549777,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						},
+						{
+							"treeId": 878723,
+							"parentTreeId": 10802,
+							"externalId": 878723,
+							"rawName": "Primera B Metropolitana",
+							"name": "Primera B Metropolitana",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						},
+						{
+							"treeId": 2547074,
+							"parentTreeId": 10802,
+							"externalId": 2547074,
+							"rawName": "Primera C Metropolitana",
+							"name": "Primera C Metropolitana",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						},
+						{
+							"treeId": 1854242,
+							"parentTreeId": 10802,
+							"externalId": 1854242,
+							"rawName": "Primera D Metropolitana",
+							"name": "Primera D Metropolitana",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 1803715,
+				"parentTreeId": 11,
+				"externalId": 1803715,
+				"rawName": "Aruba",
+				"name": "Aruba",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 1803716,
+							"parentTreeId": 1803715,
+							"externalId": 1803716,
+							"rawName": "Division di Honor",
+							"name": "Division di Honor",
+							"live": false,
+							"catInfo": {
+								"rating": 5,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 189154,
+				"parentTreeId": 11,
+				"externalId": 189154,
+				"rawName": "Australia",
+				"name": "Australia",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 233682,
+							"parentTreeId": 189154,
+							"externalId": 233682,
+							"rawName": "A-League",
+							"name": "A-League",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 46712,
+				"parentTreeId": 11,
+				"externalId": 46712,
+				"rawName": "Austria",
+				"name": "Austria",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 46715,
+							"parentTreeId": 46712,
+							"externalId": 46715,
+							"rawName": "Bundesliga",
+							"name": "Bundesliga",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 45835,
+				"parentTreeId": 11,
+				"externalId": 45835,
+				"rawName": "Belgium",
+				"name": "Belgium",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 46181,
+							"parentTreeId": 45835,
+							"externalId": 46181,
+							"rawName": "1st Division A",
+							"name": "1st Division A",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 569397,
+							"parentTreeId": 45835,
+							"externalId": 569397,
+							"rawName": "1st Division B",
+							"name": "1st Division B",
+							"live": false,
+							"catInfo": {
+								"rating": 5,
+								"link": false
+							}
+						},
+						{
+							"treeId": 46182,
+							"parentTreeId": 45835,
+							"externalId": 46182,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 339247,
+				"parentTreeId": 11,
+				"externalId": 339247,
+				"rawName": "Bolivia",
+				"name": "Bolivia",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 339248,
+							"parentTreeId": 339247,
+							"externalId": 339248,
+							"rawName": "LFPB",
+							"name": "LFPB",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 245918,
+				"parentTreeId": 11,
+				"externalId": 245918,
+				"rawName": "Bulgaria",
+				"name": "Bulgaria",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 245919,
+							"parentTreeId": 245918,
+							"externalId": 245919,
+							"rawName": "1st League",
+							"name": "1st League",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 312052,
+				"parentTreeId": 11,
+				"externalId": 312052,
+				"rawName": "Colombia",
+				"name": "Colombia",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 312055,
+							"parentTreeId": 312052,
+							"externalId": 312055,
+							"rawName": "Primera A",
+							"name": "Primera A",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 353646,
+				"parentTreeId": 11,
+				"externalId": 353646,
+				"rawName": "Croatia",
+				"name": "Croatia",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 353648,
+							"parentTreeId": 353646,
+							"externalId": 353648,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 338995,
+				"parentTreeId": 11,
+				"externalId": 338995,
+				"rawName": "Cyprus",
+				"name": "Cyprus",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 338997,
+							"parentTreeId": 338995,
+							"externalId": 338997,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 46795,
+				"parentTreeId": 11,
+				"externalId": 46795,
+				"rawName": "Czech Republic",
+				"name": "Czech Republic",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 46796,
+							"parentTreeId": 46795,
+							"externalId": 46796,
+							"rawName": "1st League",
+							"name": "1st League",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 49327,
+				"parentTreeId": 11,
+				"externalId": 49327,
+				"rawName": "Denmark",
+				"name": "Denmark",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 49330,
+							"parentTreeId": 49327,
+							"externalId": 49330,
+							"rawName": "Superliga",
+							"name": "Superliga",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 49429,
+							"parentTreeId": 49327,
+							"externalId": 49429,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 350529,
+				"parentTreeId": 11,
+				"externalId": 350529,
+				"rawName": "Egypt",
+				"name": "Egypt",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 350532,
+							"parentTreeId": 350529,
+							"externalId": 350532,
+							"rawName": "Premier League",
+							"name": "Premier League",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 21517,
+				"parentTreeId": 11,
+				"externalId": 21517,
+				"rawName": "England",
+				"name": "England",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 21520,
+							"parentTreeId": 21517,
+							"externalId": 21520,
+							"rawName": "Premier League",
+							"name": "Premier League",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 22807,
+							"parentTreeId": 21517,
+							"externalId": 22807,
+							"rawName": "Championship",
+							"name": "Championship",
+							"live": false,
+							"catInfo": {
+								"rating": 5,
+								"link": false
+							}
+						},
+						{
+							"treeId": 47817,
+							"parentTreeId": 21517,
+							"externalId": 47817,
+							"rawName": "League Cup",
+							"name": "League Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 2,
+								"link": false
+							}
+						},
+						{
+							"treeId": 50981,
+							"parentTreeId": 21517,
+							"externalId": 50981,
+							"rawName": "EFL Trophy",
+							"name": "EFL Trophy",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						},
+						{
+							"treeId": 935490,
+							"parentTreeId": 21517,
+							"externalId": 935490,
+							"rawName": "Isthmian League",
+							"name": "Isthmian League",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						},
+						{
+							"treeId": 2453613,
+							"parentTreeId": 21517,
+							"externalId": 2453613,
+							"rawName": "Isthmian League Cup",
+							"name": "Isthmian League Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						},
+						{
+							"treeId": 22808,
+							"parentTreeId": 21517,
+							"externalId": 22808,
+							"rawName": "League 1",
+							"name": "League 1",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						},
+						{
+							"treeId": 22809,
+							"parentTreeId": 21517,
+							"externalId": 22809,
+							"rawName": "League 2",
+							"name": "League 2",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						},
+						{
+							"treeId": 3310256,
+							"parentTreeId": 21517,
+							"externalId": 3310256,
+							"rawName": "National League",
+							"name": "National League",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						},
+						{
+							"treeId": 3310257,
+							"parentTreeId": 21517,
+							"externalId": 3310257,
+							"rawName": "National League North",
+							"name": "National League North",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						},
+						{
+							"treeId": 3310258,
+							"parentTreeId": 21517,
+							"externalId": 3310258,
+							"rawName": "National League South",
+							"name": "National League South",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						},
+						{
+							"treeId": 703706,
+							"parentTreeId": 21517,
+							"externalId": 703706,
+							"rawName": "Northern Premier League",
+							"name": "Northern Premier League",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						},
+						{
+							"treeId": 911301,
+							"parentTreeId": 21517,
+							"externalId": 911301,
+							"rawName": "Southern Football League",
+							"name": "Southern Football League",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 21532,
+				"parentTreeId": 11,
+				"externalId": 21532,
+				"rawName": "France",
+				"name": "France",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 21533,
+							"parentTreeId": 21532,
+							"externalId": 21533,
+							"rawName": "Ligue 1",
+							"name": "Ligue 1",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 46785,
+							"parentTreeId": 21532,
+							"externalId": 46785,
+							"rawName": "Ligue 2",
+							"name": "Ligue 2",
+							"live": false,
+							"catInfo": {
+								"rating": 5,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 22430,
+				"parentTreeId": 11,
+				"externalId": 22430,
+				"rawName": "Germany",
+				"name": "Germany",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 22436,
+							"parentTreeId": 22430,
+							"externalId": 22436,
+							"rawName": "Bundesliga",
+							"name": "Bundesliga",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 42528,
+							"parentTreeId": 22430,
+							"externalId": 42528,
+							"rawName": "Bundesliga 2",
+							"name": "Bundesliga 2",
+							"live": false,
+							"catInfo": {
+								"rating": 5,
+								"link": false
+							}
+						},
+						{
+							"treeId": 432293,
+							"parentTreeId": 22430,
+							"externalId": 432293,
+							"rawName": "3rd Liga",
+							"name": "3rd Liga",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 2380225,
+				"parentTreeId": 11,
+				"externalId": 2380225,
+				"rawName": "Gibraltar",
+				"name": "Gibraltar",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 2380238,
+							"parentTreeId": 2380225,
+							"externalId": 2380238,
+							"rawName": "1st Division",
+							"name": "1st Division",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 253855,
+				"parentTreeId": 11,
+				"externalId": 253855,
+				"rawName": "Hungary",
+				"name": "Hungary",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 346295,
+							"parentTreeId": 253855,
+							"externalId": 346295,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 341092,
+				"parentTreeId": 11,
+				"externalId": 341092,
+				"rawName": "India",
+				"name": "India",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 341094,
+							"parentTreeId": 341092,
+							"externalId": 341094,
+							"rawName": "I-League",
+							"name": "I-League",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 2328940,
+							"parentTreeId": 341092,
+							"externalId": 2328940,
+							"rawName": "Super League",
+							"name": "Super League",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 370471,
+				"parentTreeId": 11,
+				"externalId": 370471,
+				"rawName": "Indonesia",
+				"name": "Indonesia",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 4160714,
+							"parentTreeId": 370471,
+							"externalId": 4160714,
+							"rawName": "Liga 1",
+							"name": "Liga 1",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 345449,
+				"parentTreeId": 11,
+				"externalId": 345449,
+				"rawName": "Israel",
+				"name": "Israel",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 345450,
+							"parentTreeId": 345449,
+							"externalId": 345450,
+							"rawName": "Premier League",
+							"name": "Premier League",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 22431,
+				"parentTreeId": 11,
+				"externalId": 22431,
+				"rawName": "Italy",
+				"name": "Italy",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 22434,
+							"parentTreeId": 22431,
+							"externalId": 22434,
+							"rawName": "Serie A",
+							"name": "Serie A",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 46723,
+							"parentTreeId": 22431,
+							"externalId": 46723,
+							"rawName": "Serie B",
+							"name": "Serie B",
+							"live": false,
+							"catInfo": {
+								"rating": 5,
+								"link": false
+							}
+						},
+						{
+							"treeId": 418679,
+							"parentTreeId": 22431,
+							"externalId": 418679,
+							"rawName": "Super Cup",
+							"name": "Super Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 4,
+								"link": false
+							}
+						},
+						{
+							"treeId": 43938,
+							"parentTreeId": 22431,
+							"externalId": 43938,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						},
+						{
+							"treeId": 1376595,
+							"parentTreeId": 22431,
+							"externalId": 1376595,
+							"rawName": "Serie C",
+							"name": "Serie C",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 47468,
+				"parentTreeId": 11,
+				"externalId": 47468,
+				"rawName": "Japan",
+				"name": "Japan",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 47469,
+							"parentTreeId": 47468,
+							"externalId": 47469,
+							"rawName": "J.League",
+							"name": "J.League",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 103600,
+							"parentTreeId": 47468,
+							"externalId": 103600,
+							"rawName": "Emperor's Cup",
+							"name": "Emperor's Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 355049,
+				"parentTreeId": 11,
+				"externalId": 355049,
+				"rawName": "Korea Republic",
+				"name": "Korea Republic",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 6529958,
+							"parentTreeId": 355049,
+							"externalId": 6459526,
+							"rawName": "K League 1",
+							"name": "K League 1",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 713522,
+							"parentTreeId": 355049,
+							"externalId": 713522,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 222952,
+				"parentTreeId": 11,
+				"externalId": 222952,
+				"rawName": "Mexico",
+				"name": "Mexico",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 223070,
+							"parentTreeId": 222952,
+							"externalId": 223070,
+							"rawName": "Primera Division",
+							"name": "Primera Division",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 354557,
+				"parentTreeId": 11,
+				"externalId": 354557,
+				"rawName": "Montenegro",
+				"name": "Montenegro",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 354558,
+							"parentTreeId": 354557,
+							"externalId": 354558,
+							"rawName": "1st League",
+							"name": "1st League",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 505493,
+				"parentTreeId": 11,
+				"externalId": 505493,
+				"rawName": "Morocco",
+				"name": "Morocco",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 5838834,
+							"parentTreeId": 505493,
+							"externalId": 5790726,
+							"rawName": "Botola",
+							"name": "Botola",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 38087,
+				"parentTreeId": 11,
+				"externalId": 38087,
+				"rawName": "Netherlands",
+				"name": "Netherlands",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 38090,
+							"parentTreeId": 38087,
+							"externalId": 38090,
+							"rawName": "Eredivisie",
+							"name": "Eredivisie",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 345004,
+							"parentTreeId": 38087,
+							"externalId": 345004,
+							"rawName": "Eerste Divisie",
+							"name": "Eerste Divisie",
+							"live": false,
+							"catInfo": {
+								"rating": 5,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 63043,
+				"parentTreeId": 11,
+				"externalId": 63043,
+				"rawName": "Northern Ireland",
+				"name": "Northern Ireland",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 701414,
+							"parentTreeId": 63043,
+							"externalId": 701414,
+							"rawName": "Championship",
+							"name": "Championship",
+							"live": false,
+							"catInfo": {
+								"rating": 4,
+								"link": false
+							}
+						},
+						{
+							"treeId": 1394271,
+							"parentTreeId": 63043,
+							"externalId": 1394271,
+							"rawName": "League Cup",
+							"name": "League Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 2,
+								"link": false
+							}
+						},
+						{
+							"treeId": 3966041,
+							"parentTreeId": 63043,
+							"externalId": 3966041,
+							"rawName": "Mid Ulster Cup",
+							"name": "Mid Ulster Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 22826,
+				"parentTreeId": 11,
+				"externalId": 22826,
+				"rawName": "Norway",
+				"name": "Norway",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 22827,
+							"parentTreeId": 22826,
+							"externalId": 22827,
+							"rawName": "Eliteserien",
+							"name": "Eliteserien",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 349937,
+				"parentTreeId": 11,
+				"externalId": 349937,
+				"rawName": "Oman",
+				"name": "Oman",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 545667,
+							"parentTreeId": 349937,
+							"externalId": 545667,
+							"rawName": "Sultan Cup",
+							"name": "Sultan Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 339272,
+				"parentTreeId": 11,
+				"externalId": 339272,
+				"rawName": "Paraguay",
+				"name": "Paraguay",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 7179425,
+							"parentTreeId": 339272,
+							"externalId": 7074362,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 47115,
+				"parentTreeId": 11,
+				"externalId": 47115,
+				"rawName": "Poland",
+				"name": "Poland",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 47116,
+							"parentTreeId": 47115,
+							"externalId": 47116,
+							"rawName": "Ekstraklasa",
+							"name": "Ekstraklasa",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 838222,
+							"parentTreeId": 47115,
+							"externalId": 838222,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 21518,
+				"parentTreeId": 11,
+				"externalId": 21518,
+				"rawName": "Portugal",
+				"name": "Portugal",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 43058,
+							"parentTreeId": 21518,
+							"externalId": 43058,
+							"rawName": "Primeira Liga",
+							"name": "Primeira Liga",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 104236,
+							"parentTreeId": 21518,
+							"externalId": 104236,
+							"rawName": "League Cup",
+							"name": "League Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 2,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 479848,
+				"parentTreeId": 11,
+				"externalId": 479848,
+				"rawName": "Republic of Macedonia",
+				"name": "Republic of Macedonia",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 479849,
+							"parentTreeId": 479848,
+							"externalId": 479849,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 223111,
+				"parentTreeId": 11,
+				"externalId": 223111,
+				"rawName": "Romania",
+				"name": "Romania",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 223112,
+							"parentTreeId": 223111,
+							"externalId": 223112,
+							"rawName": "Liga I",
+							"name": "Liga I",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 10898,
+				"parentTreeId": 11,
+				"externalId": 10898,
+				"rawName": "Russia",
+				"name": "Russia",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 22433,
+							"parentTreeId": 10898,
+							"externalId": 22433,
+							"rawName": "Premier League",
+							"name": "Premier League",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 27312,
+							"parentTreeId": 10898,
+							"externalId": 27312,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 1142305,
+				"parentTreeId": 11,
+				"externalId": 1142305,
+				"rawName": "San Marino",
+				"name": "San Marino",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 1147854,
+							"parentTreeId": 1142305,
+							"externalId": 1147854,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 22432,
+				"parentTreeId": 11,
+				"externalId": 22432,
+				"rawName": "Scotland",
+				"name": "Scotland",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 22435,
+							"parentTreeId": 22432,
+							"externalId": 22435,
+							"rawName": "Premiership",
+							"name": "Premiership",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 37771,
+							"parentTreeId": 22432,
+							"externalId": 37771,
+							"rawName": "Championship",
+							"name": "Championship",
+							"live": false,
+							"catInfo": {
+								"rating": 5,
+								"link": false
+							}
+						},
+						{
+							"treeId": 99043,
+							"parentTreeId": 22432,
+							"externalId": 99043,
+							"rawName": "FA Cup",
+							"name": "FA Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						},
+						{
+							"treeId": 37772,
+							"parentTreeId": 22432,
+							"externalId": 37772,
+							"rawName": "League 1",
+							"name": "League 1",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						},
+						{
+							"treeId": 37773,
+							"parentTreeId": 22432,
+							"externalId": 37773,
+							"rawName": "League 2",
+							"name": "League 2",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						},
+						{
+							"treeId": 7260818,
+							"parentTreeId": 22432,
+							"externalId": 7155412,
+							"rawName": "Reserve League 2",
+							"name": "Reserve League 2",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 305509,
+				"parentTreeId": 11,
+				"externalId": 305509,
+				"rawName": "Serbia",
+				"name": "Serbia",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 305511,
+							"parentTreeId": 305509,
+							"externalId": 305511,
+							"rawName": "SuperLiga",
+							"name": "SuperLiga",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 8727,
+				"parentTreeId": 11,
+				"externalId": 8727,
+				"rawName": "Spain",
+				"name": "Spain",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 8736,
+							"parentTreeId": 8727,
+							"externalId": 8736,
+							"rawName": "Primera Division",
+							"name": "Primera Division",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 48300,
+							"parentTreeId": 8727,
+							"externalId": 48300,
+							"rawName": "Segunda Division",
+							"name": "Segunda Division",
+							"live": false,
+							"catInfo": {
+								"rating": 5,
+								"link": false
+							}
+						},
+						{
+							"treeId": 49196,
+							"parentTreeId": 8727,
+							"externalId": 49196,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 46327,
+				"parentTreeId": 11,
+				"externalId": 46327,
+				"rawName": "Switzerland",
+				"name": "Switzerland",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 46331,
+							"parentTreeId": 46327,
+							"externalId": 46331,
+							"rawName": "Super League",
+							"name": "Super League",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 45833,
+				"parentTreeId": 11,
+				"externalId": 45833,
+				"rawName": "Turkey",
+				"name": "Turkey",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 46180,
+							"parentTreeId": 45833,
+							"externalId": 46180,
+							"rawName": "Super Lig",
+							"name": "Super Lig",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						},
+						{
+							"treeId": 46179,
+							"parentTreeId": 45833,
+							"externalId": 46179,
+							"rawName": "Cup",
+							"name": "Cup",
+							"live": false,
+							"catInfo": {
+								"rating": 3,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 12053,
+				"parentTreeId": 11,
+				"externalId": 12053,
+				"rawName": "USA",
+				"name": "USA",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 138152,
+							"parentTreeId": 12053,
+							"externalId": 138152,
+							"rawName": "MLS",
+							"name": "MLS",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 46008,
+				"parentTreeId": 11,
+				"externalId": 46008,
+				"rawName": "Ukraine",
+				"name": "Ukraine",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 46183,
+							"parentTreeId": 46008,
+							"externalId": 46183,
+							"rawName": "Premier League",
+							"name": "Premier League",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 339954,
+				"parentTreeId": 11,
+				"externalId": 339954,
+				"rawName": "Venezuela",
+				"name": "Venezuela",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 339955,
+							"parentTreeId": 339954,
+							"externalId": 339955,
+							"rawName": "Primera Division",
+							"name": "Primera Division",
+							"live": false,
+							"catInfo": {
+								"rating": 6,
+								"link": false
+							}
+						}
+					],
+					"rating": 3,
+					"link": false
+				}
+			},
+			{
+				"treeId": 236881,
+				"parentTreeId": 11,
+				"externalId": 236881,
+				"rawName": "Women",
+				"name": "Women",
+				"live": false,
+				"catInfo": {
+					"children": [
+						{
+							"treeId": 458030,
+							"parentTreeId": 236881,
+							"externalId": 458030,
+							"rawName": "Germany",
+							"name": "Germany",
+							"live": false,
+							"catInfo": {
+								"rating": 1,
+								"link": false
+							}
+						}
+					],
+					"rating": -1,
+					"link": false
+				}
+			}
+		],
+		"rating": 2,
+		"link": false
+	}
+}
